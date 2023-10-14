@@ -123,3 +123,4 @@ TW_INCLUDE_REPACKTOOLS := true
 TARGET_USES_LOGD := true
 TWRP_INCLUDE_LOGCAT := true
 TARGET_RECOVERY_FSTAB := $(DEVICE_PATH)/recovery/root/system/etc/recovery.fstab
+SHRP_HAS_RECOVERY_PARTITION := true
