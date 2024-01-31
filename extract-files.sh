@@ -8,8 +8,8 @@
 
 set -e
 
-DEVICE=ruby
-VENDOR=xiaomi
+DEVICE=a34x
+VENDOR=samsung
 
 # Load extract_utils and do some sanity checks
 MY_DIR="${BASH_SOURCE%/*}"
